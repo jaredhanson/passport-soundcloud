@@ -1,6 +1,6 @@
 {
   "name": "passport-soundcloud",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "SoundCloud authentication strategy for Passport.",
   "keywords": ["passport", "soundcloud", "auth", "authn", "authentication", "identity"],
   "repository": {
